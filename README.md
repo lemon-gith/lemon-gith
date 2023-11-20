@@ -1,16 +1,21 @@
-### Hi there 👋
+### whoami
 
-<!--
-**lemon-gith/lemon-gith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 3rd year uni student based in London, UK.
 
-Here are some ideas to get you started:
+### pwd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studied GCSEs and A-levels without a formal Computer Science education.
+
+However, did a 5-day python bootcamp a while back and realised that coding is super fun :D
+
+Countless small python projects were spawned, but no major projects. 
+
+Then started attending uni, and... well... lost track of time.
+
+### misc
+
+Just wrote this because I like the idea of having a `README.md` for myself :)
+
+All I'm really looking for is the time to spend on these projects, uni is really pushing it this year :/
+
+Fun fact: pending, I'll think of a good one...
