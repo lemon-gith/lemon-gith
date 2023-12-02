@@ -2,6 +2,10 @@
 
 A 3rd year uni student at Imperial College London.
 
+### `help`
+Currently a work in progress, most of my contributions are in private repos for uni projects and whatnot.
+Once I've made a bit of time for myself more projects will be added as I learn more and more languages, but for now, alas, I have nothing to show here.
+
 ### `pwd`
 
 Studied GCSEs and A-levels without a formal Computer Science education.
@@ -24,3 +28,18 @@ Fun fact: pending, I'll think of a good one...
 
 Plan on redoing a couple of my uni projects, as well as writing a couple fun projects of my own, just to teach myself certain concepts and to build some fun things.
 Perhaps also contribute to other projects, if any software bugs annoy me enough.
+
+### `yes hi`
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+...
