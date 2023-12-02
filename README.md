@@ -30,16 +30,16 @@ Plan on redoing a couple of my uni projects, as well as writing a couple fun pro
 Perhaps also contribute to other projects, if any software bugs annoy me enough.
 
 ### `yes hi`
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
+hi\
 ...
