@@ -12,7 +12,8 @@ Studied GCSEs and A-levels without a formal Computer Science education.
 
 However, did a 5-day python bootcamp a while back and realised that coding is super fun :D
 
-Countless small python projects were spawned, but no major projects. 
+Countless small python projects were spawned, but no major projects.\
+(Although, maybe I'll dig up that adventure game and post it on here, sometime :0)
 
 Then started attending uni, and... well... lost track of time.
 
