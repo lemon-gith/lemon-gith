@@ -2,11 +2,18 @@
 
 A 3rd year uni student at Imperial College London.
 
+<!-- 
+Add a `pwd` section to actually address my present working conditions 
+Update `help` to make it better
+Maybe add a bit more to the `whoami`
+Basically, write this up to be a nice README, and maybe add a redirect to my website? :)
+-->
+
 ### `help`
 Currently a work in progress, most of my contributions are in private repos for uni projects and whatnot.
 Once I've made a bit of time for myself more projects will be added as I learn more and more languages, but for now, alas, I have nothing to show here.
 
-### `pwd`
+### `history`
 
 Studied GCSEs and A-levels without a formal Computer Science education.
 
@@ -31,9 +38,6 @@ Plan on redoing a couple of my uni projects, as well as writing a couple fun pro
 Perhaps also contribute to other projects, if any software bugs annoy me enough.
 
 ### `yes hi`
-hi\
-hi\
-hi\
 hi\
 hi\
 hi\
